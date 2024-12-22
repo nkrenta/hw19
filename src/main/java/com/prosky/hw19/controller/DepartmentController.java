@@ -1,12 +1,12 @@
-package controller;
+package com.prosky.hw19.controller;
 
 import com.prosky.hw19.Employee;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import service.DepartmentService;
-import service.EmployeeService;
+import com.prosky.hw19.service.DepartmentService;
+import com.prosky.hw19.service.EmployeeService;
 
 import java.util.List;
 import java.util.Map;

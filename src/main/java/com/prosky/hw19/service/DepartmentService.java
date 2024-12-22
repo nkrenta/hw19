@@ -1,4 +1,4 @@
-package service;
+package com.prosky.hw19.service;
 
 import com.prosky.hw19.Employee;
 import org.springframework.stereotype.Service;
